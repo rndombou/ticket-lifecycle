@@ -49,7 +49,7 @@ EXAMPLE 1B
 </p>
 <p>
 <br />
-Additionally, two other tickets were created for this project. One is a General Inquiry from Matt Hershey and System Issues logging into Adobe by Heidi Sanders, see EXAMPLE 1C.
+Additionally, two other tickets were created for this project. One is a General Inquiry from Matt Hershey and System Issues logging into Adobe by Dora Explorer, see EXAMPLE 1C.
 </p>
 <br />
 EXAMPLE 1C
@@ -68,7 +68,7 @@ EXAMPLE 2A
 <img src="https://i.imgur.com/VGFqims.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-See below that the ticket was transferred to myself (Michael Bibelheimer) however there is an alert due to this ticket not being addressed faster due to the SLA set for SEV-A and is “Marked overdue!”. Additionally, you can view the input items for anyone who opens the ticket to provide any additional comments.
+See below that the ticket was transferred to myself (Roddy Ndombou) however there is an alert due to this ticket not being addressed faster due to the SLA set for SEV-A. Additionally, you can view the input items for anyone who opens the ticket to provide any additional comments.
 </p>
 <br />
 EXAMPLE 2B
