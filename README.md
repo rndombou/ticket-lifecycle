@@ -92,7 +92,7 @@ Logging in as Jane Doe, we see that she has been assigned the ticket “When Are
 <br />
 EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/LqQ4Z5T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9mywRk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
